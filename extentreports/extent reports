@@ -1,5 +1,10 @@
 what is extent reports
--> configuration to run extent reports (dependencies)
+ ->we need to select the maven-archtype-quickstart artificat id when creating new maven project
+	Artificat id -> project name
+	Group id-> Package name
+	 
+ 
+-> configuration to run extent reports (dependencies) add in pom.xml file
 	1. extent reports maven 
 	2. testng
 	3. selenium -java
